@@ -23,6 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.header{
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 .App-link {
   color: #61dafb;
