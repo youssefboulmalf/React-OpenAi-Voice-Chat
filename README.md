@@ -1,5 +1,7 @@
 # Open Ai voice chat #
 
+![alt text](./img/chat.jpg)
+
 ## About ##
 This is a simple website build with React that takes a users voice input and generates a respond from one of the current active Open Ai models. It then takes this respons and turns the text to speech so you can finaly have that conversation with an advanced Ai you always wanted.
 
